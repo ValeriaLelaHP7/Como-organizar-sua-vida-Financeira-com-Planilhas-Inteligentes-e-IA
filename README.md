@@ -1,29 +1,26 @@
-# Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA## Projeto Podcast Gerado por I.A.s
+# Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso da DIO CAIXA - IA Generativa com Microsoft Copilot [DIO](https://dio.me)
 
-## Projeto Prático de Criação de Dasdhboard de controle financeiro partindo de planilha do excel
+## Projeto Prático de Criação de Dasdhboard de controle financeiro partindo de planilha do excel e anúncio fake da venda desse produto
 
-Notion Template] (https://www.notion.so/Planejamento-do-Podcast-16b1651e157a80fda151fd444d120ecf)
-
+Notion Template] (https://www.notion.so/publicar-meu-primeiro-curso-online-16f1651e157a80a18e70f19c62e37c43?pvs=4)
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Microsoft Excel] 
+- [Microsoft Excel]
+- [Microsoft Word ]
 - [ChatGPT](https://chat.openai.com/) 
 
 ## ✨ Como foi feito ?
 
 - Arquivo de planilha e dashboard gerado no Microsoft Excel
-- Adobe Podcast para tratar aúdio e adicionar sons e vinhetas
+- Anúncio CxriADO NO mICROSOFT wORD
+- Chat GPT para criar texto de anúncio escrito 
 
 ## 📚 Materiais
 
-- [Planejamento do projeto] [Notion Template] (https://www.notion.so/Planejamento-do-Podcast-16b1651e157a80fda151fd444d120ecf)
-- [Editor de aúdio] [Adobe podcast] (https://podcast.adobe.com/projects/f27cd552-7964-4508-9210-5ed4e4b57550)
-
-## 🛠️ Instruções de execução utilizadas
-
-Utilizei os prompts fornecidos pelo professor Felipe, ajustados para meu podcast, dentro do link do `Notion` fornecido na parte de `Materiais do GIT HUB do felipe para criar um podcast de maneira automatizada.
+- [Planejamento do projeto] Notion Template] (https://www.notion.so/publicar-meu-primeiro-curso-online-16f1651e157a80a18e70f19c62e37c43?pvs=4)
+  
 
 ## 👨‍💻 Expert
 
